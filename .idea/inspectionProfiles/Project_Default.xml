@@ -1,0 +1,71 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="20">
+            <item index="0" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="1" class="java.lang.String" itemvalue="chromedriver_autoinstaller" />
+            <item index="2" class="java.lang.String" itemvalue="webdriver-manager" />
+            <item index="3" class="java.lang.String" itemvalue="setuptools" />
+            <item index="4" class="java.lang.String" itemvalue="requests" />
+            <item index="5" class="java.lang.String" itemvalue="numpy" />
+            <item index="6" class="java.lang.String" itemvalue="scrapyd" />
+            <item index="7" class="java.lang.String" itemvalue="scrapy" />
+            <item index="8" class="java.lang.String" itemvalue="tools" />
+            <item index="9" class="java.lang.String" itemvalue="pandas" />
+            <item index="10" class="java.lang.String" itemvalue="schedule" />
+            <item index="11" class="java.lang.String" itemvalue="selenium" />
+            <item index="12" class="java.lang.String" itemvalue="azure-storage-blob" />
+            <item index="13" class="java.lang.String" itemvalue="pip" />
+            <item index="14" class="java.lang.String" itemvalue="Scraper" />
+            <item index="15" class="java.lang.String" itemvalue="property" />
+            <item index="16" class="java.lang.String" itemvalue="python-scrapyd-api" />
+            <item index="17" class="java.lang.String" itemvalue="properties" />
+            <item index="18" class="java.lang.String" itemvalue="frontend" />
+            <item index="19" class="java.lang.String" itemvalue="Twisted" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="str.*" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="VulnerableLibrariesLocal" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="isIgnoringEnabled" value="true" />
+      <option name="ignoredModules">
+        <list>
+          <option value="commercial_availability" />
+          <option value="commercial_availability" />
+          <option value="commercial_availability" />
+        </list>
+      </option>
+      <option name="ignoredPackages">
+        <list>
+          <option value="null:PyPDF2:3.0.1" />
+          <option value="null:Scrapy:2.6.3" />
+          <option value="null:pip:22.2.2" />
+        </list>
+      </option>
+      <option name="ignoredReasons">
+        <list>
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

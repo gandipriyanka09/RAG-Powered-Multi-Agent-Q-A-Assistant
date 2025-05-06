@@ -1,0 +1,11 @@
+Product: SmartHome Thermostat
+
+FAQs:
+Q: How do I install the SmartHome Thermostat?
+A: Use the wall mount and follow the app-guided setup process.
+
+Q: What is the battery life?
+A: The thermostat lasts up to 12 months on two AA batteries.
+
+Q: Can I control it remotely?
+A: Yes, using the SmartHome app on iOS or Android.
